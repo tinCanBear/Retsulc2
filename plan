@@ -1,0 +1,11 @@
+-need to make this thing more interactive or versatile
+    -create a data structure to hold all the results
+    -2 main mechanisms:
+        1) create data
+        2) use data
+
+atom entity: Point
+
+points belong to a cluster (a NULL cluster?)
+
+can transform 's' into 2 files: points & clusters?
